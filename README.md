@@ -6,3 +6,4 @@ I also make use of OpenHardwareMonitor to obtain the statistics for the system, 
 Thank you to all those that maintain these software.
 
 ![The system monitor on my desk](https://github.com/SylviaWhittle/system-monitor-display/blob/main/System-Monitor.png)
+The completed project. Here are various stats on the CPU, GPU, RAM, C and D drives, and the time.
