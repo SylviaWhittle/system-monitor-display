@@ -10,6 +10,8 @@ import datetime
 import os
 import json
 
+# RUN this on the client machine, make sure to have Open Hardware Monitor running at the same time so that WMI can access the data.
+
 # Create a defaultdict to store all the data inside
 data = defaultdict()
 
